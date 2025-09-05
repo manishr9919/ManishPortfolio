@@ -6,10 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const resume_button2=document.getElementById("resume_button2")
   // resume button1  ============================== 
   resumeButton.addEventListener("click",function(){
-    const viewUrl = 'https://drive.google.com/file/d/1m9cc12QVtXKhcm_oI6kqo57zmJdqsjVu/view?usp=sharing';
+    const viewUrl = 'https://drive.google.com/file/d/1xJqPgrnpMTZFXurwfAfPVmCi-56Nb_KR/view?usp=sharing';
     
     // URL of your resume hosted on Google Drive with download enabled
-    const downloadUrl = 'https://drive.google.com/file/d/1m9cc12QVtXKhcm_oI6kqo57zmJdqsjVu/view?usp=sharing';
+    const downloadUrl = 'https://drive.google.com/file/d/1xJqPgrnpMTZFXurwfAfPVmCi-56Nb_KR/view?usp=sharing';
 
     // Open the resume in a new tab for viewing
     window.open(downloadUrl, '_blank');
@@ -20,10 +20,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // resume resume_button2=========================
   resume_button2.addEventListener("click",function(){
-    const viewUrl = 'https://drive.google.com/file/d/1m9cc12QVtXKhcm_oI6kqo57zmJdqsjVu/view?usp=sharing';
+    const viewUrl = 'https://drive.google.com/file/d/1xJqPgrnpMTZFXurwfAfPVmCi-56Nb_KR/view?usp=sharing';
     
     // URL of your resume hosted on Google Drive with download enabled
-    const downloadUrl = 'https://drive.google.com/file/d/1m9cc12QVtXKhcm_oI6kqo57zmJdqsjVu/view?usp=sharing';
+    const downloadUrl = 'https://drive.google.com/file/d/1xJqPgrnpMTZFXurwfAfPVmCi-56Nb_KR/view?usp=sharing';
 
     // Open the resume in a new tab for viewing
     window.open(downloadUrl, '_blank');
